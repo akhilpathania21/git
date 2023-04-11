@@ -1,3 +1,6 @@
 this is my first file written by the git bash 
 thanks,
+
+
+How to stay updated with the branch
 Akhil
